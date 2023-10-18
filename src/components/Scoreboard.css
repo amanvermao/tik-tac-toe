@@ -1,0 +1,26 @@
+.Scroeboard{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 20rem ;
+    font-size: 1.5rem;
+    background-color: white;
+    margin: 3rem auto;
+    border-radius: 0.5;
+ height: 4rem;
+ border-radius: 7px;
+
+}
+.x-score{
+    color: red;
+}
+.y-score{
+    color: blue
+}
+
+
+
+
+
+
